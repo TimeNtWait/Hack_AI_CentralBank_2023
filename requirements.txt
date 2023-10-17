@@ -1,0 +1,4 @@
+numpy==1.26.0
+torch==2.0.1+cu117
+tqdm==4.66.1
+catboost==1.2.1
